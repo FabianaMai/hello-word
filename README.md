@@ -1,2 +1,3 @@
 # hello-word
-first repository for testing
+
+I am new at programming, new at GitHub, curious and willing to learn.
